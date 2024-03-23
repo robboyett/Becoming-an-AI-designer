@@ -1,5 +1,8 @@
 # Becoming an AI Designer
 
+> [!NOTE]
+> Work is still being done to get this project to a first version. This means there are gaps and incomplete content currently.
+
 ## About the Project
 "Becoming an AI Designer" is an open-source initiative aimed at bridging the gap between traditional digital design disciplines (UI, UX, Service) and the emerging field of AI design. This project serves as a living resource for digital designers to become AI-aware and evolve into proficient AI designers.
 
