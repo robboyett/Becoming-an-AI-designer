@@ -4,13 +4,16 @@ A set of resources and a structure for upskilling from one of the ‘traditional
 ## Definition of an AI designer
 https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 
+## Optimsation, automation, augmentation
+Topics to cover
+- [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/figure1.jpg?raw=true)
+
 ## How does generative AI touch existing methodology, method, experience 
 Topics to cover
 - [ ] Throwing the baby out with the bathwater, how our hard earned skills and mehtods fit with this new world
 - [ ] Multi modal thinking
 - [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
-
-![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/figure1.jpg?raw=true)
 
 ## Fragmentation of design titles across the last 20 years
 Topics to cover
