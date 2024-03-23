@@ -18,7 +18,7 @@ The project is divided into several key sections, each designed to progressively
 ## Getting Started
 To get started with "Becoming an AI Designer," follow these steps:
 
-- Navigate to the 'Introduction to AI for Designers' document to begin your journey.
+- Navigate to the 'START-HERE.md' document to begin your journey.
 - Join the community Slack (link provided) to discuss, share, and collaborate.
 
 ## How to Contribute
