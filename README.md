@@ -1,7 +1,7 @@
 # Becoming an AI Designer
 
 ## About the Project
-"Becoming an AI Designer" is an open-source initiative aimed at bridging the gap between traditional digital design disciplines (UI, UX, Service) and the emerging field of AI design. This project serves as a comprehensive resource and structured pathway for digital designers to become AI-aware and evolve into proficient AI designers.
+"Becoming an AI Designer" is an open-source initiative aimed at bridging the gap between traditional digital design disciplines (UI, UX, Service) and the emerging field of AI design. This project serves as a living resource for digital designers to become AI-aware and evolve into proficient AI designers.
 
 ## Why It Matters
 As artificial intelligence becomes increasingly integral to digital products, the need for designers who understand AI's capabilities, limitations, and design implications grows. However, transitioning from a traditional design background to a role that includes AI design is not straightforward. This project seeks to demystify AI for designers, offering them the tools, knowledge, and confidence to innovate within this space.
@@ -18,10 +18,8 @@ The project is divided into several key sections, each designed to progressively
 ## Getting Started
 To get started with "Becoming an AI Designer," follow these steps:
 
-- Clone or download the project repository.
-- Navigate to the 'Introduction to AI for Designers' section to begin your journey.
-- Engage with the exercises and projects as you progress through the sections.
-- Join the community forum (link provided) to discuss, share, and collaborate.
+- Navigate to the 'Introduction to AI for Designers' document to begin your journey.
+- Join the community Slack (link provided) to discuss, share, and collaborate.
 
 ## How to Contribute
 "Becoming an AI Designer" is a community-driven project, and contributions are welcome. Here are some ways you can contribute:
@@ -33,7 +31,7 @@ To get started with "Becoming an AI Designer," follow these steps:
 - For detailed instructions on contributing, please see the CONTRIBUTING.md file.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details. TLDR you can clone, copy, edit and distribute as you see fit.
 
 ## Acknowledgements
 A special thank you to all the contributors who have made this project possible.
