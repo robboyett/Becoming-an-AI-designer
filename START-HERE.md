@@ -9,12 +9,6 @@ Topics to cover
 - [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 ![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/figure1.jpg?raw=true)
 
-## How does generative AI touch existing methodology, method, experience 
-Topics to cover
-- [ ] Throwing the baby out with the bathwater, how our hard earned skills and mehtods fit with this new world
-- [ ] Multi modal thinking
-- [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
-
 ## Fragmentation of design titles across the last 20 years
 Topics to cover
 - [ ] Roles have been fragmented and reinvented over the last 20 years. We have an opportunity to do more with less and harness the designer spirit
@@ -25,6 +19,12 @@ AI needs to be designed. Human experiances need humans to carft them. Once we've
 
 # Setting a mindset for the challenge
 
+## How does generative AI touch existing methodology, method, experience 
+Topics to cover
+- [ ] Throwing the baby out with the bathwater, how our hard earned skills and mehtods fit with this new world
+- [ ] Multi modal thinking
+- [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+
 ## Designing with AI
 Solo or Together — how will we work with AI in our design practice?
 “One of the first things I began to realise about AI is how great it is at developing average skills of almost anything. This is perfect when you are dealing with quantitative problems. If you give the average Egyptologist a hieroglyphic translation challenge* the chances are that you will get the right answer. I would guess only the bottom 10% would get the wrong answer, not enough to mess up the average. This is great, but it does not translate to more qualitative, creative problems. If you get the average musician on Spotify to write a song, the chances are really high that it is going to be a flop. 90% of streams on Spotify come from the top 1% of artists.”
@@ -34,3 +34,8 @@ Tomas Roope, LinkedIn post
 
 # Resources
 
+## Online Learning
+## Practical Learning Resources
+## Design Patterns For AI Interfaces
+
+# References
