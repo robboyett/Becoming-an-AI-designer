@@ -10,6 +10,8 @@ Topics to cover
 - [ ] Multi modal thinking
 - [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
+![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/figure1.jpg?raw=true)
+
 ## Fragmentation of design titles across the last 20 years
 Topics to cover
 - [ ] Roles have been fragmented and reinvented over the last 20 years. We have an opportunity to do more with less and harness the designer spirit
