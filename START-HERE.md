@@ -5,13 +5,14 @@ A set of resources for upskilling from one of the ‘traditional’ digital desi
 https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 
 ## Optimsation, automation, augmentation
-Topics to cover
-- [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+
+https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+
 ![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/figure1.jpg?raw=true)
 
 ## How does generative AI touch existing methodology, method, experience 
-Topics to cover
-- [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+
+https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
 
 ## Design Patterns For AI Interfaces
