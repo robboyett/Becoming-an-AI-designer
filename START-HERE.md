@@ -1,12 +1,14 @@
 # Becoming an AI designer
 A set of resources for upskilling from one of the ‘traditional’ digital design roles (UI, UX, Service) towards becoming AI aware, and on to be an AI designer.
 
-## Interesting thinking
+## Thinking
 The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 
 The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
 ![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/figure1.jpg?raw=true)
+
+The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 
 ## Design Patterns For AI Interfaces
 
@@ -55,3 +57,9 @@ https://lukew.com/ff?tag=ai
 
 AI Design Patterns and UX Toolkits, by Vitaly Friedman
 https://lnkd.in/eCEXVvAG
+
+## Using AI to get more design done
+
+Why can’t services be launched in a day? Using a custom GPT to make a ‘real’ service and test business assumptions. https://medium.com/@robboyett/why-cant-services-be-launched-in-a-day-12298562827a
+
+Enhancing Research Synthesis with AI: An Experiential Report https://bootcamp.uxdesign.cc/enhancing-research-synthesis-with-ai-an-experiential-report-8341b2e3cc88
