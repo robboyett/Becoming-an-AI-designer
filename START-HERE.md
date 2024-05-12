@@ -10,8 +10,6 @@ The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https
 
 ## Design Patterns For AI Interfaces
 
-https://lethain.com/mental-model-for-how-to-use-llms-in-products/
-
 AI Interaction Design Patterns, by Emily Campbell
 https://www.shapeof.ai
 
