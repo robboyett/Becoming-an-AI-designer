@@ -1,19 +1,13 @@
 # Becoming an AI designer
 A set of resources for upskilling from one of the ‘traditional’ digital design roles (UI, UX, Service) towards becoming AI aware, and on to be an AI designer.
 
-## Thoughts about combining deisgn and AI
+## Interesting thinking
 https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 
-## Optimsation, automation, augmentation
-
 https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
+https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 ![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/figure1.jpg?raw=true)
-
-## How does generative AI touch existing methodology, method, experience 
-
-https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
-
 
 ## Design Patterns For AI Interfaces
 
