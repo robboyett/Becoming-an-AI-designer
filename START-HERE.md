@@ -2,11 +2,10 @@
 A set of resources for upskilling from one of the ‘traditional’ digital design roles (UI, UX, Service) towards becoming AI aware, and on to be an AI designer.
 
 ## Interesting thinking
-https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
+The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 
-https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
-https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 ![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/figure1.jpg?raw=true)
 
 ## Design Patterns For AI Interfaces
@@ -36,6 +35,8 @@ https://www.uxforai.com/
 
 
 ## Useful Resources
+
+Notes on how to use LLMs in your product https://lethain.com/mental-model-for-how-to-use-llms-in-products/
 
 IBM Design For AI https://www.ibm.com/design/ai/
 
