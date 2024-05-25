@@ -1,6 +1,9 @@
 # Becoming an AI designer
 A set of resources for upskilling from one of the ‘traditional’ digital design roles (UI, UX, Service) towards becoming AI aware, and on to be an AI designer.
 
+![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/AI-Badge-1024.jpg)
+*AI at work, an image created in MidJourney, upscaled in Magnific, and finally edited in Affinity Photo (Because I'm too cheap for Adobe these days)*
+
 ## Thinking & Mindset Change
 The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 
