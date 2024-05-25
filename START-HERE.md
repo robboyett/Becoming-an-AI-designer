@@ -63,3 +63,6 @@ https://lnkd.in/eCEXVvAG
 Why can’t services be launched in a day? Using a custom GPT to make a ‘real’ service and test business assumptions. https://medium.com/@robboyett/why-cant-services-be-launched-in-a-day-12298562827a
 
 Enhancing Research Synthesis with AI: An Experiential Report https://bootcamp.uxdesign.cc/enhancing-research-synthesis-with-ai-an-experiential-report-8341b2e3cc88
+
+## References
+A bunch of the links found here are from a post by Vitaly Friedman, https://www.linkedin.com/feed/update/urn:li:activity:7169605603382800386/
