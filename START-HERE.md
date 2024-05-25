@@ -1,7 +1,7 @@
 # Becoming an AI designer
 A set of resources for upskilling from one of the ‘traditional’ digital design roles (UI, UX, Service) towards becoming AI aware, and on to be an AI designer.
 
-## Thinking
+## Thinking & Mindset Change
 The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 
 The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
