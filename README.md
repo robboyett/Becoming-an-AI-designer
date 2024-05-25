@@ -12,8 +12,11 @@ As artificial intelligence becomes increasingly integral to digital products, th
 ## What You Will Find
 The project is divided into several key sections, each designed to progressively upskill participants:
 
+Today
+- Tools and Technologies: Hand picked links to smart thinking from across the web.
+
+Future (Maybe)
 - Introduction to AI for Designers: Understand the basics of AI and how it applies to digital design.
-- Tools and Technologies: Get hands-on with the tools and technologies that make AI design possible.
 - Case Studies and Best Practices: Learn from real-world applications and the frontiers of AI design.
 - Projects and Exercises: Apply your knowledge through practical projects and exercises.
 - Community and Collaboration: Join a community of like-minded individuals, share your work, and collaborate on innovative solutions.
@@ -22,7 +25,7 @@ The project is divided into several key sections, each designed to progressively
 To get started with "Becoming an AI Designer," follow these steps:
 
 - Navigate to the 'START-HERE.md' document to begin your journey.
-- Join the community Slack (link provided) to discuss, share, and collaborate.
+- (Coming soon) Join the community Slack (link) to discuss, share, and collaborate.
 
 ## How to Contribute
 "Becoming an AI Designer" is a community-driven project, and contributions are welcome. Here are some ways you can contribute:
@@ -31,7 +34,6 @@ To get started with "Becoming an AI Designer," follow these steps:
 - Provide Feedback: Offer constructive feedback on existing content or suggest new areas to cover.
 - Volunteer for Peer Review: Help review submissions for accuracy and clarity.
 - Spread the Word: Share this project with others who might benefit from it.
-- For detailed instructions on contributing, please see the CONTRIBUTING.md file.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details. TLDR you can clone, copy, edit and distribute as you see fit.
