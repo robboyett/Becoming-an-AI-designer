@@ -13,6 +13,14 @@ The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https
 
 The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 
+## Online Learning Programs
+
+> [!NOTE]
+> Missing reviews of the online learning. Not perosnally completed these. If you have and could review please update.
+
+Generative AI with IBM
+https://www.ibm.com/training/collection/generative-ai-with-ibm-687
+
 ## Design Patterns For AI Interfaces
 
 AI Interaction Design Patterns, by Emily Campbell
