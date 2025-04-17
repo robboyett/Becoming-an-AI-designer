@@ -24,7 +24,7 @@ Future (Maybe)
 ## Getting Started
 To get started with "Becoming an AI Designer," follow these steps:
 
-- Navigate to the [index.md](/blob/main/index.md) document to begin your journey.
+- Navigate to the [index.md](index.md) document to begin your journey.
 
 ## How to Contribute
 "Becoming an AI Designer" is a community-driven project, and contributions are welcome. Here are some ways you can contribute:
