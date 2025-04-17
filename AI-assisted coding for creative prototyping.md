@@ -1,4 +1,4 @@
-(<- Index.md)[index.md]
+[<- Index.md](index.md)
 
 # AI-assisted coding for creative prototyping
 AI tools like ChatGPT, GitHub Copilot, and Claude can help designers generate functional code snippets to accelerate prototyping. You can use natural language prompts to produce HTML/CSS, React components, or interactive sketches. This works especially well with tools like:
