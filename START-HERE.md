@@ -1,4 +1,4 @@
-# Becoming an AI designer
+# Becoming An AI Designer
 
 A set of resources for upskilling from one of the ‘traditional’ digital design roles (UI, UX, Service) towards becoming AI aware, and on to be an AI designer.
 
