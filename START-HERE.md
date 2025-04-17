@@ -81,7 +81,7 @@ https://lnkd.in/eCEXVvAG
 ### Storytelling and presentation
 - Links coming
 
-# Software & models
+# Software & Models
 - Design Managers Guide to Midjourney https://medium.com/design-bootcamp/design-managers-guide-to-midjourney-128c2a3cd971
 
 # References
