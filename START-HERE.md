@@ -10,10 +10,8 @@ A set of resources for upskilling from one of the ‘traditional’ digital desi
 
 ### Thinking & Mindset Change
 - The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
-- The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
-- https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 - The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
-
+- The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
 # Designing Experiences AI For Users
 
@@ -72,7 +70,7 @@ https://lnkd.in/eCEXVvAG
 - Enhancing Research Synthesis with AI: An Experiential Report https://bootcamp.uxdesign.cc/enhancing-research-synthesis-with-ai-an-experiential-report-8341b2e3cc88
 ### Problem framing
 - Links coming
-### Creative ideation 
+### Creative ideation and refinement
 - Links coming
 ### Rapid prototyping
 - Why can’t services be launched in a day? Using a custom GPT to make a ‘real’ service and test business assumptions. https://medium.com/@robboyett/why-cant-services-be-launched-in-a-day-12298562827a
@@ -82,6 +80,9 @@ https://lnkd.in/eCEXVvAG
 - Links coming 
 ### Storytelling and presentation
 - Links coming
+
+# Software & models
+- Design Managers Guide to Midjourney https://medium.com/design-bootcamp/design-managers-guide-to-midjourney-128c2a3cd971
 
 # References
 - A bunch of the links found here are from a post by Vitaly Friedman, https://www.linkedin.com/feed/update/urn:li:activity:7169605603382800386/
