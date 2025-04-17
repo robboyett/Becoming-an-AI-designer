@@ -1,24 +1,24 @@
 # Becoming an AI designer
+
 A set of resources for upskilling from one of the ‘traditional’ digital design roles (UI, UX, Service) towards becoming AI aware, and on to be an AI designer.
 
-![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/AI-Badge-1024.jpg)
-*AI at work, an image created in MidJourney, upscaled in Magnific, and finally edited in Affinity Photo (Because I'm too cheap for Adobe these days)*
 
-## Thinking & Mindset Change
-The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
+# Getting Started With AI
 
-The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+### Get to grips with the fundamentals
+- Crash course for total beginners and a power-up for enthusiasts https://2weeks.ai/
 
-## Optimsation, automation, augmentation
+### Thinking & Mindset Change
+- The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
+- The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 - https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
-![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Images/figure1.jpg?raw=true)
 - The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 
-## How does generative AI touch existing methodology, method, experience
 
-- [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+# Designing Experiences AI For Users
 
-## Design Patterns For AI Interfaces
+
+### Design Patterns
 
 AI Interaction Design Patterns, by Emily Campbell
 https://www.shapeof.ai
@@ -41,7 +41,7 @@ https://www.nngroup.com/articles/accordion-editing-apple-picking/
 UX For AI, by Greg Nudelman
 https://www.uxforai.com/
 
-## Useful Resources
+### Useful Resources
 
 Notes on how to use LLMs in your product https://lethain.com/mental-model-for-how-to-use-llms-in-products/
 
@@ -65,11 +65,23 @@ https://lukew.com/ff?tag=ai
 AI Design Patterns and UX Toolkits, by Vitaly Friedman
 https://lnkd.in/eCEXVvAG
 
-## Using AI to get more design done
 
-Why can’t services be launched in a day? Using a custom GPT to make a ‘real’ service and test business assumptions. https://medium.com/@robboyett/why-cant-services-be-launched-in-a-day-12298562827a
+# Using AI To Get More Design Done
 
-Enhancing Research Synthesis with AI: An Experiential Report https://bootcamp.uxdesign.cc/enhancing-research-synthesis-with-ai-an-experiential-report-8341b2e3cc88
+### Empathy and user understanding 
+- Enhancing Research Synthesis with AI: An Experiential Report https://bootcamp.uxdesign.cc/enhancing-research-synthesis-with-ai-an-experiential-report-8341b2e3cc88
+### Problem framing
+- Links coming
+### Creative ideation 
+- Links coming
+### Rapid prototyping
+- Why can’t services be launched in a day? Using a custom GPT to make a ‘real’ service and test business assumptions. https://medium.com/@robboyett/why-cant-services-be-launched-in-a-day-12298562827a
+### Iterative testing and feedback  
+- Links coming
+### Collaboration and communication 
+- Links coming 
+### Storytelling and presentation
+- Links coming
 
-## References
-A bunch of the links found here are from a post by Vitaly Friedman, https://www.linkedin.com/feed/update/urn:li:activity:7169605603382800386/
+# References
+- A bunch of the links found here are from a post by Vitaly Friedman, https://www.linkedin.com/feed/update/urn:li:activity:7169605603382800386/
