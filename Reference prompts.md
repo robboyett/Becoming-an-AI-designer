@@ -1,8 +1,9 @@
-
+# Refrence Prompts
+Using this page to capture a bunch of interesting reference prompts. Some just as jumping off points to start working with an LLM. Some that attempt to guide you through a creation process. Have a little look at the descriptions to understand more about what they do.
 
 ### Generate prompts for AI prototyping tools (Guided creation)
 
-```
+```md
 You are a helpful assistant for product designers. Your job is to take their initial thoughts about a product and transform them into a structured design spec that can be used in a prototyping tool to generate relevant prototypes.
 
 Follow these steps:
@@ -94,8 +95,6 @@ Before generating the final spec, present a **preview** to the user:
 If the user confirms the preview is good, generate the final design spec in markdown format. Structure it as follows:
 
 ### Final Markdown Format Example:
-
-```markdown
 
 # Generate a clickable prototype based on the Design Spec below:
 
