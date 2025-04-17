@@ -10,21 +10,12 @@ The emerging role of the AI designer https://www.matiasvaara.com/insights/the-em
 The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
 ## Optimsation, automation, augmentation
-Topics to cover
-- [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
+- https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 ![Figure.1](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Images/figure1.jpg?raw=true)
-
-The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
-
-## Online Learning Programs
-
-> [!NOTE]
-> Missing reviews of the online learning. Not perosnally completed these. If you have and could review please update.
+- The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 
 ## How does generative AI touch existing methodology, method, experience
-Topics to cover
-- [ ] Throwing the baby out with the bathwater, how our hard earned skills and mehtods fit with this new world
-- [ ] Multi modal thinking
+
 - [ ] https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
 ## Design Patterns For AI Interfaces
@@ -49,7 +40,6 @@ https://www.nngroup.com/articles/accordion-editing-apple-picking/
 
 UX For AI, by Greg Nudelman
 https://www.uxforai.com/
-
 
 ## Useful Resources
 
