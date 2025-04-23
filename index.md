@@ -13,7 +13,7 @@ A set of resources for upskilling from one of the ‘traditional’ digital desi
 - The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 - The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
-# Designing Experiences AI For Users
+# Designing AI Experiences For Users
 
 
 ### Design Patterns
