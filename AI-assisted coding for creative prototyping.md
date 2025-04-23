@@ -1,11 +1,18 @@
 [<- Index.md](index.md)
 
-# AI-assisted coding for creative prototyping
-AI tools like ChatGPT, GitHub Copilot, and Claude can help designers generate functional code snippets to accelerate prototyping. You can use natural language prompts to produce HTML/CSS, React components, or interactive sketches. This works especially well with tools like:
 
+# AI-assisted coding for creative prototyping
+AI tools like ChatGPT, GitHub Copilot, and Claude can help designers generate functional code snippets to accelerate prototyping. You can use natural language prompts to produce HTML/CSS, React components, or interactive sketches. 
+
+### Software Reviews
+To be added.
+
+### Example Prompts
+To be added.
+
+### Existing libraries to take advantage of
 - p5.js – A JavaScript library for creative coding. Ask ChatGPT to generate p5.js sketches for data visualisations, interactive animations, or custom UI behaviour.
 - ML5.js – A library that wraps common machine learning models into beginner-friendly JS functions. Combine it with ChatGPT to write code for real-time classification or generative effects in the browser.
-- CodePen & Replit – Use AI to generate prototypes and then test and iterate in live environments.
 
 ### No-code machine learning in prototyping
 Designers can explore machine learning behaviours in prototypes today using visual, no-code tools:
