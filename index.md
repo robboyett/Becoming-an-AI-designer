@@ -80,7 +80,7 @@ https://lnkd.in/eCEXVvAG
 - Why can’t services be launched in a day? Using a custom GPT to make a ‘real’ service and test business assumptions. https://medium.com/@robboyett/why-cant-services-be-launched-in-a-day-12298562827a
 
 > [!TIP]
-> - Prompt that will guide you through creatin of a prompt to use with AI assisted code tools [HERE](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Reference%20prompts.md#generate-prompts-for-ai-prototyping-tools-guided-creation)
+> - Prompt that will guide you through creation of a prompt to use with AI assisted coding tools [HERE](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Reference%20prompts.md#generate-prompts-for-ai-prototyping-tools-guided-creation)
 > - Related Sub Pages [AI-assisted coding for creative prototyping](/AI-assisted%20coding%20for%20creative%20prototyping.md)
 
 ### Iterative testing and feedback  
