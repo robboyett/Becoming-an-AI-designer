@@ -1,9 +1,9 @@
-# Becoming An AI Designer
+# 🧑‍🎨 Becoming An AI Designer
 
 A set of resources for upskilling from one of the ‘traditional’ digital design roles (UI, UX, Service) towards becoming AI aware, and on to be an AI designer.
 
 
-# Getting Started With AI
+# 🏁 Getting Started With AI
 
 ### Get to grips with the fundamentals
 - Crash course for total beginners and a power-up for enthusiasts https://2weeks.ai/
@@ -13,8 +13,7 @@ A set of resources for upskilling from one of the ‘traditional’ digital desi
 - The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 - The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
-# Designing AI Experiences For Users
-
+# 🤷 Designing AI Experiences For Users
 
 ### Design Patterns
 
@@ -64,7 +63,7 @@ AI Design Patterns and UX Toolkits, by Vitaly Friedman
 https://lnkd.in/eCEXVvAG
 
 
-# Using AI To Get More Design Done
+# 🦾 Using AI To Get More Design Done
 
 ### Empathy and user understanding 
 - Enhancing Research Synthesis with AI: An Experiential Report https://bootcamp.uxdesign.cc/enhancing-research-synthesis-with-ai-an-experiential-report-8341b2e3cc88
@@ -90,7 +89,7 @@ https://lnkd.in/eCEXVvAG
 ### Storytelling and presentation
 - Links coming
 
-# Software & Models
+# 💻 Software & Models
 - Design Managers Guide to Midjourney https://medium.com/design-bootcamp/design-managers-guide-to-midjourney-128c2a3cd971
 
 # References
