@@ -118,7 +118,7 @@ https://lnkd.in/eCEXVvAG
 - Links coming
 <!-- Creating a little more vertical space --><br/>
 
-# 💻 Software & Models
+# 💻 Software & Model Guides
 - Design Managers Guide to Midjourney https://medium.com/design-bootcamp/design-managers-guide-to-midjourney-128c2a3cd971
 <!-- Creating a little more vertical space --><br/>
 
