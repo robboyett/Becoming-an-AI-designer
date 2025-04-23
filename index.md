@@ -70,6 +70,10 @@ https://lnkd.in/eCEXVvAG
 - Enhancing Research Synthesis with AI: An Experiential Report https://bootcamp.uxdesign.cc/enhancing-research-synthesis-with-ai-an-experiential-report-8341b2e3cc88
 ### Problem framing
 - Links coming
+
+> [!TIP]
+> - Prompt that will guide you through creation of a product requirements document using an LLM [HERE](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Reference%20prompts.md#zero-to-prd-guided-creation)
+  
 ### Creative ideation and refinement
 - Links coming
 ### Prototyping and workflows
