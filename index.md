@@ -98,6 +98,7 @@ https://lnkd.in/eCEXVvAG
 <!-- Creating a little more vertical space --><br/>
 
 ### Prototyping and workflows
+- A guide to AI prototyping for product managers, by Colin Matthews https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product
 - Why can’t services be launched in a day? Using a custom GPT to make a ‘real’ service and test business assumptions. https://medium.com/@robboyett/why-cant-services-be-launched-in-a-day-12298562827a
 
 > [!TIP]
