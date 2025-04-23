@@ -5,10 +5,27 @@ A set of resources for upskilling from one of the ‘traditional’ digital desi
 
 # 🏁 Getting Started With AI
 
+### Mindset Change
+Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer getting started
+
+1. **Tool, not an outcome.**
+    - Consider AI as infrastructure — like electricity: invisible, powerful, and everywhere. AI is not the work, it’s what powers it.
+    - AI gives you first drafts. Craftsmanship is what happens next.
+2. **AI won’t replace designers. But designers who use AI well might replace those who don’t.**
+    - Be curious, play, break things, try the hot new tool. Lean into discomfort. Explore why you dislike or love AI.
+3. **Lean on qualities that AI does exceptionally well — like unbiased thinking and data interpretation — and use those to compliment (not replace) your skills.**
+    - Consider AI as a thought-partner; use it to challenge assumptions, make ideas more robust and pull you from dead-ends.
+    - Give AI a face; An art director, a researcher, a concept artist. Never you.
+    - Be aware that using AI atrophies one’s ability to think critically, but improves cognitive bias. AI can make you more accurate, but less thoughtful.
+4. **Make time to dwell in the unknown, to write and re-write, sketch and be confused — maintain space to understand a problem more deeply.**
+    - AI cannot produce the unexpected, illogical, magical or delightful — these are the parts that humans do well, and look for in great work.
+    - "Writing is the process by which you realize that you do not understand what you are talking about. Importantly, writing is also the process by which you figure it out.”
+5. **AI presents an opportunity for unexpected creativity. If you consider AI as a turbo-charge to get to 80% completion, then it puts a much higher burden on (and opportunity for) designers to go above and beyond for weird and creative execution.**
+
 ### Get to grips with the fundamentals
 - Crash course for total beginners and a power-up for enthusiasts https://2weeks.ai/
 
-### Thinking & Mindset Change
+### Thinking
 - The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 - The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 - The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
