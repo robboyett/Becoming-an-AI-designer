@@ -102,6 +102,7 @@ https://lnkd.in/eCEXVvAG
 
 > [!TIP]
 > - Prompt that will guide you through creation of a prompt to use with AI assisted coding tools [HERE](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Reference%20prompts.md#generate-prompts-for-ai-prototyping-tools-guided-creation)
+> - Prompt to convert a product requirements document to user flows [HERE](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Reference%20prompts.md#convert-a-prd-to-user-flows)
 > - Related Sub Pages [AI-assisted coding for creative prototyping](/AI-assisted%20coding%20for%20creative%20prototyping.md)
 <!-- Creating a little more vertical space --><br/>
 
