@@ -84,30 +84,43 @@ https://lnkd.in/eCEXVvAG
 
 ### Empathy and user understanding 
 - Enhancing Research Synthesis with AI: An Experiential Report https://bootcamp.uxdesign.cc/enhancing-research-synthesis-with-ai-an-experiential-report-8341b2e3cc88
+<!-- Creating a little more vertical space --><br/>
+
 ### Problem framing
 - Links coming
 
 > [!TIP]
 > - Prompt that will guide you through creation of a product requirements document using an LLM [HERE](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Reference%20prompts.md#zero-to-prd-guided-creation)
-  
+<!-- Creating a little more vertical space --><br/>
+
 ### Creative ideation and refinement
 - Links coming
+<!-- Creating a little more vertical space --><br/>
+
 ### Prototyping and workflows
 - Why can’t services be launched in a day? Using a custom GPT to make a ‘real’ service and test business assumptions. https://medium.com/@robboyett/why-cant-services-be-launched-in-a-day-12298562827a
 
 > [!TIP]
 > - Prompt that will guide you through creation of a prompt to use with AI assisted coding tools [HERE](https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Reference%20prompts.md#generate-prompts-for-ai-prototyping-tools-guided-creation)
 > - Related Sub Pages [AI-assisted coding for creative prototyping](/AI-assisted%20coding%20for%20creative%20prototyping.md)
+<!-- Creating a little more vertical space --><br/>
 
 ### Iterative testing and feedback  
 - Links coming
+<!-- Creating a little more vertical space --><br/>
+
 ### Collaboration and communication 
 - Links coming 
+<!-- Creating a little more vertical space --><br/>
+
 ### Storytelling and presentation
 - Links coming
+<!-- Creating a little more vertical space --><br/>
 
 # 💻 Software & Models
 - Design Managers Guide to Midjourney https://medium.com/design-bootcamp/design-managers-guide-to-midjourney-128c2a3cd971
+<!-- Creating a little more vertical space --><br/>
 
 # References
 - A bunch of the links found here are from a post by Vitaly Friedman, https://www.linkedin.com/feed/update/urn:li:activity:7169605603382800386/
+<!-- Creating a little more vertical space --><br/>
