@@ -30,6 +30,11 @@ Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer g
 - The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 - The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
+## Prompt writting
+- Google, https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
+- Anthropic, Prompt engineering overvie https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+- Anthropic, Prompt Engineering Interactive Tutorial https://github.com/anthropics/prompt-eng-interactive-tutorial?tab=readme-ov-file
+
 # 🤷 Designing AI Experiences For Users
 
 ## Design Patterns
