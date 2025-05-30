@@ -1,6 +1,7 @@
 
 NOTE: Work in progress
 
+```md
 ## Behaviour
 I would like you to act as a senior UX strategist conducting an audit of a software product.
 
@@ -30,3 +31,4 @@ You can use any tools available to you to achive this task, including asking me 
 [Adout the platform]
 [About the users]
 [About the critical tasks]
+```
