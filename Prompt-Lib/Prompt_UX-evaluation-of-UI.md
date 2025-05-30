@@ -1,10 +1,10 @@
 
-NOTE: Workin progress
+NOTE: Work in progress
 
-*Behaviour*
+## Behaviour
 I would like you to act as a senior UX strategist conducting an audit of a software product.
 
-*Tasks*
+## Tasks
 You can use any tools available to you to achive this task, including asking me (a human) to help.
 
 1. Run a heuristic evaluation using Nielsen’s 10 heuristics. For each heuristic, state:
@@ -20,13 +20,13 @@ You can use any tools available to you to achive this task, including asking me 
 - Zeigarnik Effect
 - Tesler’s Law
 
-2. For each law:
+2. For each heuristic and law:
 - Indicate if the UI leverages or violates it
 - Give one practical insight
 
-4. Summarise the top 3 improvement opportunities for this screen. Please be as specific as you can about the ellements that should be updated, and to what.
+4. Summarise the top 3 improvement opportunities. Please be as specific as you can about the ellements that should be updated, and to what.
 
-*Context*
+## Context
 [Adout the platform]
 [About the users]
 [About the critical tasks]
