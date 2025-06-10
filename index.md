@@ -33,13 +33,12 @@ Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer g
 ## Prompt writting
 - Google, Prompting Guide 101 https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 - Anthropic, Prompt Engineering Overview https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
-- Anthropic, Prompt Engineering Interactive Tutorial https://github.com/anthropics/prompt-eng-interactive-tutorial?tab=readme-ov-file
--- After completing this course, you will be able to:
---- Understand the structure of a great prompt
---- Recognise common failure modes
---- Learn the 80/20 techniques to address them
---- Understand LLMs strengths and weaknesses
---- Build a strong prompts library
+- Anthropic, Prompt Engineering Interactive Tutorial https://github.com/anthropics/prompt-eng-interactive-tutorial?tab=readme-ov-file After completing this course, you will be able to:
+  - Understand the structure of a great prompt
+  - Recognise common failure modes
+  - Learn the 80/20 techniques to address them
+  - Understand LLMs strengths and weaknesses
+  - Build a strong prompts library
 
 # 🤷 Designing AI Experiences For Users
 
