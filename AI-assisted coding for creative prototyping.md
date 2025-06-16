@@ -43,6 +43,8 @@ Use this as a tool for staying focused as you prototype: “Our [users] need a w
 ADD
 
 ## Existing libraries to take advantage of
+The LLMs can often be quite keen to write all of their code from scratch, but a simple Google search or a few questions about existing code libraries that you might include in your project can actually get you a very long way with much less code, and create a set of guide rails for the LLMs. So that you have functionality that has been defined and tested and works out the box and you can concentrate on what's unique about the prototype that you're creating.
+
 - p5.js – A JavaScript library for creative coding. Ask ChatGPT to generate p5.js sketches for data visualisations, interactive animations, or custom UI behaviour.
 - ML5.js – A library that wraps common machine learning models into beginner-friendly JS functions. Combine it with ChatGPT to write code for real-time classification or generative effects in the browser.
 
