@@ -2,8 +2,10 @@ These are designed to provoke deeper, more structured responses from an LLM or a
 	
 1.	What underlying factors or root causes are contributing to this issue — and which ones are within our influence to address?
 Use this to go beyond surface symptoms and identify levers for change.
+
 2.	How might we reframe this problem to unlock fresh or unconventional solutions?
-Encourages shifting perspective, challenging assumptions, or zooming in/out.
+_Encourages shifting perspective, challenging assumptions, or zooming in/out._
+
 3.	How can we define this problem in a way that reflects the needs, constraints, and motivations of all key stakeholders?
 Ensures alignment across business, users, and technical considerations.
 4.	What forces — internal or external — are driving this problem, and how do they interact over time?
