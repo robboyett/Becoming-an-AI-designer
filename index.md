@@ -110,6 +110,9 @@ https://lukew.com/ff/entry.asp?2106
 Designing for AI Engineers, by Eve Weinberg
 https://uxdesign.cc/designing-for-ai-engineers-what-ui-patterns-and-principles-you-need-to-know-8b16a5b62a61
 
+Where should AI sit in your UI?, Sharang Sharma
+https://uxdesign.cc/where-should-ai-sit-in-your-ui-1710a258390e
+
 # 🦾 Using AI To Get More Design Done
 
 ## Empathy and user understanding 
