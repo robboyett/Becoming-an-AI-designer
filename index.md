@@ -98,6 +98,17 @@ https://lukew.com/ff?tag=ai
 AI Design Patterns and UX Toolkits, by Vitaly Friedman
 https://lnkd.in/eCEXVvAG
 
+Usable Chat Interfaces to AI Models, by Luke Wroblewski
+https://lukew.com/ff/entry.asp?2093
+
+The Receding Role of AI Chat, by Luke Wroblewski
+https://lukew.com/ff/entry.asp?2105
+
+Agent Management Interface Patterns, by Luke Wroblewsk
+https://lukew.com/ff/entry.asp?2106
+
+Designing for AI Engineers, by Eve Weinberg
+https://uxdesign.cc/designing-for-ai-engineers-what-ui-patterns-and-principles-you-need-to-know-8b16a5b62a61
 
 # 🦾 Using AI To Get More Design Done
 
