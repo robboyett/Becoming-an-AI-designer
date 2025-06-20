@@ -47,8 +47,17 @@ Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer g
 AI Interaction Design Patterns, by Emily Campbell
 https://www.shapeof.ai
 
+AI UX Patterns, by Luke Bennis
+https://www.aiuxpatterns.com/patterns.html
+
+Design Patterns For Trust With AI, Sarah Gold and team
+https://catalogue.projectsbyif.com/
+
 AI Design Patterns Catalogue, by Maggie Appleton
 https://maggieappleton.com/patterns
+
+AI Guidebook Design Patterns
+https://pair.withgoogle.com/guidebook/patterns
 
 Language Model Sketchbook, by Maggie Appleton
 https://maggieappleton.com/lm-sketchbook
