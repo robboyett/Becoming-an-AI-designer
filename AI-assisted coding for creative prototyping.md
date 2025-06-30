@@ -29,7 +29,7 @@ Use this as a tool for staying focused as you prototype: “Our [users] need a w
 | Bolt | AI powered coding kickstarters (Cloud) | - |
 | Claude | LLM | - |
 | ChatGPT | LLM | - |
-| Deepseek R1 | Open source LLM | This model can be used locally on your map, it can be really useful if you're working inside a company that is very sensitive to using cloud-hosted software. |
+| Deepseek R1 | Open source LLM | This model can be used locally on your mac, it can be really useful if you're working inside a company that is very sensitive to using cloud-hosted software. |
 | LLaMA | Open source LLM | This model can be used locally on your map, it can be really useful if you're working inside a company that is very sensitive to using cloud-hosted software. |
 
 ### Running LLMs Locally on Mac
