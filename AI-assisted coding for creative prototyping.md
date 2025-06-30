@@ -55,6 +55,37 @@ Designers can explore machine learning behaviours in prototypes today using visu
 - Wekinator – Use real-time input data (e.g. from sliders, webcams, sensors) to train a model and trigger outputs. You can connect this to creative coding environments like Processing or Unity.
 - Runway ML – Offers drag-and-drop access to powerful generative models for video, image, or text – useful for building experimental creative interfaces.
 
+## AI prototype mining: A systematic approach to discovering unexpected solutions
+This process leverages AI's natural variability in interpreting requirements to expand your solution space beyond initial assumptions. Rather than generating a single prototype that reflects your preconceptions, you create multiple AI-generated variants that reveal alternative approaches and features you might not have considered. The key value lies in the collaborative evaluation phase - prototype mining sessions where teams systematically review these "serendipity features" to identify genuinely useful discoveries. It transforms AI's tendency to interpret briefs differently from a limitation into a deliberate exploration tool, helping teams break out of familiar design patterns whilst maintaining focus on core requirements.
+
+### Step-by-step guide
+
+**Phase 1: Requirements preparation**
+1. Gather inputs - Collect business expectations, user research findings, and team assumptions
+2. Document hypotheses - Write down your solution hypotheses and key assumptions
+3. Create PRD - Use an LLM to help structure all the documents you have into one context bundle in the style of a PRD
+
+**Phase 2: Prototype generation**
+1. Select AI tools - Choose your favorite AI enabled tool or a mix e.g. Figma Make, v0, Cursor
+2. Generate variants - Run the PRD through tools 8+ times to create multiple working prototypes. Tip: Resist steering - Don't attempt to control interface design details - let the AI interpret freely
+4. Capture outputs - Save all generated prototypes, even ones that seem off-target
+
+**Phase 3: Mining session preparation**
+1. Review prototypes - Identify serendipity features and unexpected approaches across variants
+2. Document discoveries - Note interesting differences, new features, or alternative interpretations
+3. Schedule session - Book prototype mining session, include a cross-function spread of people from product and dev...
+
+**Phase 4: Prototype mining session**
+1. Present variants - Show prototypes to the team without initial commentary
+2. Identify serendipity features - Discuss unexpected elements that emerged from AI interpretation
+3. Evaluate potential - Assess which discoveries merit further exploration or testing
+4. Decide next steps - Choose whether to test prototypes as-is or amalgamate interesting features
+
+**Phase 5: Synthesis**
+1. Document decisions - Record which serendipity features the team wants to pursue
+2. Plan testing - Define how to validate promising discoveries
+3. Iterate requirements - Update PRD based on insights from mining session
+
 ## Technical Conepts For Designers
 Why is this useful in the context of AI assisted prototype building? When you're trying to build these more technical prototypes, working prototypes, a bunch of these concepts are going to come up and having a good grounding is useful if not necessary to become an expert in all of them but understanding what they are is very useful.
 
