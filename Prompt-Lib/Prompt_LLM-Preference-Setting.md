@@ -1,4 +1,4 @@
-#Personal preferences tweaks
+Personal preferences tweaks
 this is a set of tuning prompts to add to the setting in Claude and ChatGPT. Contains two sections.
 
 1. Tune the response 
