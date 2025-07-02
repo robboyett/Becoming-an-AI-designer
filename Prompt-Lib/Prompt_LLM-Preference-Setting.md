@@ -1,8 +1,4 @@
-Personal preferences tweaks
-this is a set of tuning prompts to add to the setting in Claude and ChatGPT. Contains two sections.
-
-1. Tune the response 
-2. Attempting to remove the over eagerness to agree and say I’m a genius.
+Prompt to snap an LLM away from being a agreeable Labrador to all of your ideas.
 
 ```md
 *Challenge Ideas*
