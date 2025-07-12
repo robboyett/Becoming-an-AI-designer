@@ -76,6 +76,8 @@ https://www.uxforai.com/
 
 ## Useful Resources
 
+Using ai as thought partner: https://open.substack.com/pub/onlydeadfish/p/fish-food-651-using-ai-as-a-thought?r=qj6x&utm_medium=ios
+
 Designing contextual affordance https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Designing-Contextual-Affordance.md
 
 Notes on how to use LLMs in your product https://lethain.com/mental-model-for-how-to-use-llms-in-products/
