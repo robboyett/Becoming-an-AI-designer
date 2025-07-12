@@ -15,7 +15,7 @@ Here are the core components you’ll likely encounter:
 | **Short-term memory (state)**      | Conversation history or recent actions from the session.                       |
 | **Long-term memory**               | Persistent knowledge: user preferences, past sessions, stored info.           |
 | **Retrieval-Augmented Generation (RAG)** | Dynamic context from external sources—e.g. internal docs, databases.     |
-| **Available tools**                | Functions the model can call—APIs, plugins, calculators, DB lookups, etc.     |
+| **Available tools**                | Functions the model can call—MCPs, APIs, plugins, calculators, DB lookups, etc.     |
 | **Structured output**              | The format required (e.g. JSON, table, Markdown) for integration or parsing.  |
 
 These elements shape the *latent interface*. The one the user never sees but which defines how well the system works and feels.
