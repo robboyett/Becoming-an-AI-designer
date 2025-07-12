@@ -76,6 +76,8 @@ https://www.uxforai.com/
 
 ## Useful Resources
 
+Designing contextual affordance https://github.com/robboyett/Becoming-an-AI-designer/blob/main/Designing-Contextual-Affordance.md
+
 Notes on how to use LLMs in your product https://lethain.com/mental-model-for-how-to-use-llms-in-products/
 
 IBM Design For AI https://www.ibm.com/design/ai/
