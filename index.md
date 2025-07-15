@@ -144,7 +144,7 @@ https://uxdesign.cc/where-should-ai-sit-in-your-ui-1710a258390e
 - Links coming
 
 ## Collaboration and communication 
-- Links coming 
+-  Cognitive Challenges in Prompt Based Interactions with LLMs https://arxiv.org/pdf/2309.14459
 
 ## Storytelling and presentation
 - Links coming
