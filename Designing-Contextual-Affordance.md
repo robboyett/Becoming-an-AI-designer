@@ -10,11 +10,11 @@ Here are the core components you’ll likely encounter:
 
 | **Component**                       | **Description**                                                                 |
 |------------------------------------|---------------------------------------------------------------------------------|
-| **User prompt**                    | The immediate query or input from the user—can be underspecified or ambiguous. |
+| **User prompt**                    | The immediate query or input from the user. Can be underspecified or ambiguous. |
 | **Instructions / system prompt**   | Hidden directives that steer model tone, role, constraints, and response style.|
 | **Short-term memory (state)**      | Conversation history or recent actions from the session.                       |
 | **Long-term memory**               | Persistent knowledge: user preferences, past sessions, stored info.           |
-| **Retrieval-Augmented Generation (RAG)** | Dynamic context from external sources—e.g. internal docs, databases.     |
+| **Retrieval-Augmented Generation (RAG)** | Dynamic context from external sources (e.g. internal docs, databases).     |
 | **Available tools**                | Functions the model can call—MCPs, APIs, plugins, calculators, DB lookups, etc.     |
 | **Structured output**              | The format required (e.g. JSON, table, Markdown) for integration or parsing.  |
 
@@ -51,7 +51,7 @@ Designing AI-powered experiences means adding to the upfront context and thinkin
 | **Short-term memory**   | Design visible history summaries, editable memory panels, session playback.                          |
 | **Long-term memory**    | Personalisation flows, opt-in memory UIs, “what we know about you” explainer modals.                  |
 | **RAG**                 | Simulate different knowledge sources; show citations and traceable retrieval for trust.               |
-| **Available tools**     | Design and mock out tool affordances—what the LLM *could* do and how it's triggered.                  |
+| **Available tools**     | Design and mock out tool affordances. Show what the LLM *could* do and how it's triggered.                  |
 | **Structured output**   | Create resilient schemas, auto-formatting UX, error-tolerant designs for misalignment.                |
 
 ---

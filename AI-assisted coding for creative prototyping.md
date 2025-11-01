@@ -2,7 +2,7 @@
 
 # AI-assisted coding for creative prototyping
 
-Tools like Figma Make, ChatGPT, Claude, and GitHub Copilot now enable designers to generate functional prototypes using natural language. You can prompt them to produce HTML/CSS, React components, or interactive UI sketches—quickly turning ideas into code.
+Tools like Figma Make, ChatGPT, Claude, and GitHub Copilot now enable designers to generate functional prototypes using natural language. You can prompt them to produce HTML/CSS, React components, or interactive UI sketches, quickly turning ideas into code.
 
 > [!NOTE] **Featured Guide**
 > **A Field Guide to Vibe Coding as a Digital Product Designer** - A comprehensive 11,000+ word guide to coding with AI as a designer. Covers mindset, approaches, and practical techniques for leveraging AI coding tools. [Open in Google Doc](https://docs.google.com/document/d/1faXvgzcoSmulGXh70-7UIWyJQpiY_vtiHYnk_WQuJoo/edit?tab=t.0) (suggestions welcome)
@@ -12,9 +12,9 @@ Tools like Figma Make, ChatGPT, Claude, and GitHub Copilot now enable designers 
 Before diving in, it’s worth stepping back: why are you prototyping in the first place? Design thinking has long emphasised prototyping as a way to explore ideas, test assumptions, and align teams. That hasn’t changed. But in the era of AI-assisted design, being crystal clear on your intent helps in two ways:
 
 - It keeps stakeholders aligned on what you’re building and why.
-- It improves your prompts. AI responds better when you give it context—what you’re trying to learn, who you’re designing for, and what format the output should take.
+- It improves your prompts. AI responds better when you give it context: what you're trying to learn, who you're designing for, and what format the output should take.
 
-With AI, the old debate around fidelity becomes less relevant. You can generate a near-production UI with the same effort as a low-fi wireframe. But the purpose of prototyping still matters: you’re not just building screens—you’re building insight. Validation, iteration, and learning are still deeply human activities.
+With AI, the old debate around fidelity becomes less relevant. You can generate a near-production UI with the same effort as a low-fi wireframe. But the purpose of prototyping still matters: you're not just building screens. You're building insight. Validation, iteration, and learning are still deeply human activities.
 
 ### Problem statement template
 
@@ -44,7 +44,7 @@ Use this as a tool for staying focused as you prototype: “Our [users] need a w
 
 ## Example Prompts
 
-**When to use:** These examples demonstrate how to structure prompts for different prototyping scenarios. Each prompt includes context about the problem, desired output format, and constraints—this helps AI generate more relevant and usable code.
+**When to use:** These examples demonstrate how to structure prompts for different prototyping scenarios. Each prompt includes context about the problem, desired output format, and constraints. This helps AI generate more relevant and usable code.
 
 ### Example 1: Simple Interactive Component
 
