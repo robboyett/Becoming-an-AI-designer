@@ -221,7 +221,7 @@ AI can enhance traditional problem framing by offering multiple perspectives, ch
 
 AI excels at generating variations and unexpected connections, making it a powerful tool for ideation. Unlike traditional ideation, AI's variability becomes an asset. Each generation can reveal serendipitous features and alternative approaches you might not have considered. This is particularly valuable for the "matchmaking" approach: matching AI capabilities (even at moderate performance) with user needs to find low-effort, high-impact, buildable ideas.
 
-- AI Brainstorming Design Kit, by HCI Institute https://aidesignkit.github.io/ - Framework that distills AI capabilities into eight core functions (Estimate, Forecast, Compare, Detect, Identify, Discover, Generate, Act). Offers a matchmaking approach to ideation that starts with AI capabilities rather than complex user pain points, leading to more buildable concepts.
+- AI Brainstorming Design Kit, by HCI Institute https://aidesignkit.github.io/ - Framework that distills AI capabilities into eight core functions (Estimate, Forecast, Compare, Detect, Identify, Discover, Generate, Act). Offers a matchmaking approach to ideation that starts with AI capabilities rather than complex user pain points, leading to more buildable concepts. [Watch the intro on Youtube](https://www.youtube.com/watch?v=32O8ClueB_Q).
 - Related: See [AI prototype mining](AI-assisted%20coding%20for%20creative%20prototyping.md#ai-prototype-mining-a-systematic-approach-to-discovering-unexpected-solutions) - A systematic approach to leveraging AI's variability for ideation through multiple prototype generation
 
 <a name="prototyping-and-workflows"></a>
