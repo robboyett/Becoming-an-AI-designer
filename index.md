@@ -86,7 +86,7 @@ Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer g
 - The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
 <a name="prompt-writting"></a>
-## Prompt writting
+## Introductions to prompt writting
 - Google, Prompting Guide 101 https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 - Anthropic, Prompt Engineering Overview https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 - Anthropic, Prompt Engineering Interactive Tutorial https://github.com/anthropics/prompt-eng-interactive-tutorial?tab=readme-ov-file After completing this course, you will be able to:
