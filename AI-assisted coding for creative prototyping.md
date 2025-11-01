@@ -4,6 +4,9 @@
 
 Tools like Figma Make, ChatGPT, Claude, and GitHub Copilot now enable designers to generate functional prototypes using natural language. You can prompt them to produce HTML/CSS, React components, or interactive UI sketches—quickly turning ideas into code.
 
+> [!NOTE] **Featured Guide**
+> **A Field Guide to Vibe Coding as a Digital Product Designer** - A comprehensive 11,000+ word guide to coding with AI as a designer. Covers mindset, approaches, and practical techniques for leveraging AI coding tools. [Open in Google Doc](https://docs.google.com/document/d/1faXvgzcoSmulGXh70-7UIWyJQpiY_vtiHYnk_WQuJoo/edit?tab=t.0) (suggestions welcome)
+
 ## Purpose to prototype
 
 Before diving in, it’s worth stepping back: why are you prototyping in the first place? Design thinking has long emphasised prototyping as a way to explore ideas, test assumptions, and align teams. That hasn’t changed. But in the era of AI-assisted design, being crystal clear on your intent helps in two ways:
@@ -40,7 +43,92 @@ Use this as a tool for staying focused as you prototype: “Our [users] need a w
 | LM Studio | Native Mac App | - |
 
 ## Example Prompts
-ADD
+
+**When to use:** These examples demonstrate how to structure prompts for different prototyping scenarios. Each prompt includes context about the problem, desired output format, and constraints—this helps AI generate more relevant and usable code.
+
+### Example 1: Simple Interactive Component
+
+**Use case:** Creating a responsive button component with hover states for a design system prototype.
+
+**Prompt:**
+```
+Create a React component for a primary button with the following requirements:
+- Accepts text and onClick handler as props
+- Has hover and active states with smooth transitions
+- Uses CSS modules for styling
+- Responsive sizing (small, medium, large variants)
+- Disabled state with visual feedback
+- Follows accessibility best practices (keyboard navigation, ARIA attributes)
+
+Return the complete component code with styles.
+```
+
+**Expected output:** React functional component with CSS module file
+
+**When to use this pattern:** When you need a reusable UI component with standard interactions and states. This works well for building component libraries or design system prototypes.
+
+---
+
+### Example 2: Data Visualization with Interactive Elements
+
+**Use case:** Creating an interactive data visualization to explore user behavior patterns.
+
+**Prompt:**
+```
+Build an interactive bar chart using React and a charting library (suggest which library to use) that:
+- Displays monthly user engagement data from a provided JSON dataset
+- Allows filtering by date range with interactive sliders
+- Shows tooltips on hover with detailed metrics
+- Has responsive design (mobile and desktop layouts)
+- Includes loading states while data is being fetched
+- Uses a color scheme accessible for colorblind users
+
+The data format will be: [{month: "Jan", activeUsers: 1200, sessions: 3400}, ...]
+
+Provide the full component code with data handling logic.
+```
+
+**Expected output:** React component with chart visualization, filtering logic, and responsive styling
+
+**When to use this pattern:** When prototyping data-driven features or dashboard interfaces where interactive exploration is key. This pattern works well for validating information architecture and user flow for analytical tools.
+
+---
+
+### Example 3: Real-time Interactive Prototype
+
+**Use case:** Building a prototype to test a collaborative editing feature concept.
+
+**Prompt:**
+```
+Create a React application that simulates real-time collaborative text editing:
+- Multiple users can edit the same document simultaneously
+- Show each user's cursor position and edits in different colors
+- Display a list of active users with their assigned colors
+- Use WebSocket-like behavior (you can simulate this with setInterval for the prototype)
+- Include basic conflict resolution (last edit wins for simplicity)
+- Add a "sync status" indicator showing connection state
+
+Use React hooks for state management. Style it with a modern, clean UI that clearly shows the collaborative nature.
+
+Provide the complete application code structure.
+```
+
+**Expected output:** Multi-component React app with simulated real-time features
+
+**When to use this pattern:** When you need to prototype complex interactions or test user flows for collaborative features. This helps validate the UX before building the full backend integration.
+
+---
+
+**Tips for writing effective prompts:**
+
+1. **Start with the problem context** - What are you trying to learn or validate?
+2. **Specify the output format** - React component, HTML/CSS, specific library?
+3. **Include constraints** - Accessibility, responsive design, browser support
+4. **Mention state management** - Local state, Context API, or external library?
+5. **Request complete solutions** - Ask for full component code, not snippets
+6. **Iterate on the prompt** - If the output isn't right, refine your prompt with more specific requirements
+
+For more structured prompt guidance, see the [Prompt Library](../Prompt-Lib/) for problem-framing and workflow prompts.
 
 ## Existing libraries to take advantage of
 The LLMs can often be quite keen to write all of their code from scratch, but a simple Google search or a few questions about existing code libraries that you might include in your project can actually get you a very long way with much less code, and create a set of guide rails for the LLMs. So that you have functionality that has been defined and tested and works out the box and you can concentrate on what's unique about the prototype that you're creating.
