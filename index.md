@@ -4,9 +4,9 @@ A set of resources for upskilling from one of the 'traditional' digital design r
 
 ---
 
-# 🎯 START HERE: Begin Your Journey
+# 🎯 Start Here: Begin Your Journey
 
-If you're new to AI design, follow this path:
+If you're new to AI in design try this path:
 
 1. **[Mindset Change](#mindset-change)** - Read Buzz Usborne's advice on approaching AI as infrastructure, not outcome
 2. **[Get to grips with fundamentals](#get-to-grips-with-the-fundamentals)** - Crash course for total beginners
@@ -179,14 +179,6 @@ Prompting is essentially **writing a design brief for an expert collaborator**. 
 
 Evidence is strongest for structured and role-based prompting, heuristic evaluations, and accessibility repair tasks; more experimental for multi-agent panels or fully automated prototyping.
 
-## Using it day to day
-
-1. **Start simple.** Write one structured prompt for a recurring task (e.g. "generate tone-checked error messages").
-2. **Refine.** Add a persona, then test a stepwise version that includes a self-check.
-3. **Record.** Save what works in your prompt library.
-4. **Automate later.** When a pattern is stable, embed it in a Figma or CLI script or as a background "system prompt".
-5. **Keep a human in the loop.** Always review outputs for bias, clarity, and factual correctness.
-
 ## Risks and checks
 
 * **Bias and inclusion.** Ask explicitly for inclusive language; check diversity in examples.
@@ -313,6 +305,8 @@ https://uxdesign.cc/where-should-ai-sit-in-your-ui-1710a258390e
 
 AI Design Guide https://aidesign.guide/ - A growing collection of practical guides, workflows, prompts, and tools for designers working with AI. Updated weekly with actionable content that focuses on what actually moves the needle in AI design practice. Similar in approach to this resource, covering practical workflows and tools rather than theory.
 
+---
+
 # 🦾 Using AI To Get More Design Done
 
 <a name="empathy-and-user-understanding"></a>
@@ -376,6 +370,8 @@ AI can accelerate presentation creation and help communicate complex AI concepts
 - Communicating AI concepts: Focus on user benefits, explain capabilities clearly, and be transparent about limitations. See [Mindset Change](#mindset-change) for framing AI as infrastructure.
 - Storytelling frameworks for AI products: Explain what AI enables, not just what it does. Connect features to user outcomes and business value.
 
+---
+
 <a name="software--model-guides"></a>
 # 💻 Software & Model Guides
 
@@ -437,6 +433,8 @@ Understanding token usage and costs is crucial when working with AI models, espe
 - Monitoring Usage: Set up usage alerts and track token consumption patterns to identify optimization opportunities
 - Local Model Considerations: Local models (LLaMA, Deepseek) eliminate per-token costs but require hardware resources. Useful for high-volume use cases or sensitive data.
 
+---
+
 <a name="references"></a>
 # References
-- A bunch of the links found here are from a post by Vitaly Friedman, https://www.linkedin.com/feed/update/urn:li:activity:7169605603382800386/
+- A bunch of the links found here are from a posts by Vitaly Friedman 🙏
