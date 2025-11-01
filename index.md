@@ -97,14 +97,10 @@ Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer g
   - Build a strong prompts library
 
 <a name="prompting"></a>
-# Prompting
+# 🗣️ Prompting
+This section provides a practical frame for using prompts in design work. It explains what prompting is, which frameworks and methods exist today, how dependable they are, and how to move from casual use to repeatable workflows and background system prompts.
 
-**Purpose.**  
-A practical frame for using prompts in design work. It explains what prompting is, which frameworks and methods exist today, how dependable they are, and how to move from casual use to repeatable workflows and background system prompts. Link this with your sections on [prompt writing](#prompt-writting), [problem framing](#problem-framing), [prototyping and workflows](#prototyping-and-workflows), and [iterative testing and feedback](#iterative-testing-and-feedback) so readers can jump to detail.
-
----
-
-### How to think about prompting
+## How to think about prompting
 
 Prompting is essentially **writing a design brief for an expert collaborator**. A good prompt gives the model the same grounding you'd give a teammate: context, goal, constraints, and examples. Most useful techniques sit on a continuum from lightweight chat to embedded automation.
 
@@ -119,7 +115,7 @@ Prompting is essentially **writing a design brief for an expert collaborator**. 
 
 ---
 
-### Common approaches
+## Common approaches
 
 * **Structured prompts**
   Use a short framework such as **CARE** (Context, Ask, Rules, Examples) or **WIRE+FRAME** (Who, Input, Rules, Expected … Evaluate). They keep outputs focused and repeatable.
@@ -171,10 +167,7 @@ Prompting is essentially **writing a design brief for an expert collaborator**. 
     - Kinde: *Prompt patterns that scale — reusable LLM prompts for dev teams.* <https://kinde.com/learn/ai-for-software-engineering/prompting/prompt-patterns-that-scale-reusable-llm-prompts-for-dev-eams/>  
     - White et al: *A prompt pattern catalog to enhance prompt engineering.* <https://www.dre.vanderbilt.edu/~schmidt/PDF/prompt-patterns.pdf>  
 
-
----
-
-### When to use which
+## When to use which
 
 | Goal                       | Reliable pattern                    | Confidence    |
 | -------------------------- | ----------------------------------- | ------------- |
@@ -186,9 +179,7 @@ Prompting is essentially **writing a design brief for an expert collaborator**. 
 
 Evidence is strongest for structured and role-based prompting, heuristic evaluations, and accessibility repair tasks; more experimental for multi-agent panels or fully automated prototyping.
 
----
-
-### Using it day to day
+## Using it day to day
 
 1. **Start simple.** Write one structured prompt for a recurring task (e.g. "generate tone-checked error messages").
 2. **Refine.** Add a persona, then test a stepwise version that includes a self-check.
@@ -196,18 +187,14 @@ Evidence is strongest for structured and role-based prompting, heuristic evaluat
 4. **Automate later.** When a pattern is stable, embed it in a Figma or CLI script or as a background "system prompt".
 5. **Keep a human in the loop.** Always review outputs for bias, clarity, and factual correctness.
 
----
-
-### Risks and checks
+## Risks and checks
 
 * **Bias and inclusion.** Ask explicitly for inclusive language; check diversity in examples.
 * **Hallucination control.** Require citations or clear grounding; never accept unverified facts.
 * **Privacy and IP.** Strip client or user data; prefer local models for confidential work.
 * **Quality assurance.** Use your usual heuristics and rubrics before anything goes live.
 
----
-
-### Learning links
+## Learning links
 
 * **Prompt writing** — Google, [Prompting Guide 101](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf); Anthropic, [Prompt Engineering Overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) and [Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial?tab=readme-ov-file)
 * **Problem framing** — [AI Prompt Framing](https://www.nngroup.com/articles/ai-prompt-structure/) by Raluca Budiu et al.; [Using AI as thought partner](https://open.substack.com/pub/onlydeadfish/p/fish-food-651-using-ai-as-a-thought?r=qj6x&utm_medium=ios); [Problem-framing prompts](Prompt-Lib/Prompt_problem-framing.md)
@@ -219,6 +206,8 @@ Evidence is strongest for structured and role-based prompting, heuristic evaluat
 * UICrit (UIST 2024): https://dl.acm.org/doi/10.1145/3654777.3676381
 * WCAG reference: https://www.w3.org/WAI/standards-guidelines/wcag/
 * ReAct and RAG primers: https://react-lm.github.io/
+
+---
 
 # 🤷 Designing AI Experiences For Users
 
