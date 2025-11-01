@@ -83,7 +83,6 @@ Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer g
 - The emerging role of the AI designer https://www.matiasvaara.com/insights/the-emerging-role-of-the-ai-designer
 - The skills paradox found after the magic of AI image generation wains. https://bootcamp.uxdesign.cc/the-skills-paradox-found-after-the-magic-of-ai-image-generation-wains-is-that-rather-than-6b91ba219b6d
 - The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
-- AI Fluency: Framework & Foundations https://anthropic.skilljar.com/ai-fluency-framework-foundations - An open online course from Anthropic and educators Rick Dakan and Joseph Feller introducing the AI Fluency Framework: four interconnected competencies (Delegation, Description, Discernment, and Diligence) that enable effective, efficient, ethical, and safe human-AI collaboration
 
 <a name="prompt-writting"></a>
 ## Prompt writting
@@ -154,6 +153,8 @@ Agentic UX refers to interfaces where AI agents act autonomously on behalf of us
 
 <a name="useful-resources"></a>
 ## Useful Resources
+
+AI Fluency: Framework & Foundations https://anthropic.skilljar.com/ai-fluency-framework-foundations - An open online course from Anthropic and educators Rick Dakan and Joseph Feller introducing the AI Fluency Framework: four interconnected competencies (Delegation, Description, Discernment, and Diligence) that enable effective, efficient, ethical, and safe human-AI collaboration
 
 Using ai as thought partner: https://open.substack.com/pub/onlydeadfish/p/fish-food-651-using-ai-as-a-thought?r=qj6x&utm_medium=ios
 
