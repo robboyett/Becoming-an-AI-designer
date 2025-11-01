@@ -86,23 +86,15 @@ Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer g
 - The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence https://digitaleconomy.stanford.edu/news/the-turing-trap-the-promise-peril-of-human-like-artificial-intelligence/
 
 <a name="prompt-writting"></a>
-## Introductions to prompt writting
+## Introductions to prompts
+Prompting is essentially **writing a design brief for an expert collaborator**. A good prompt gives the model the same grounding you'd give a teammate: context, goal, constraints, and examples. These links arguably some of the best places to go and get familiarized with prompting and some of the intricacies involved in it.
 - Google, Prompting Guide 101 https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 - Anthropic, Prompt Engineering Overview https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
-- Anthropic, Prompt Engineering Interactive Tutorial https://github.com/anthropics/prompt-eng-interactive-tutorial?tab=readme-ov-file After completing this course, you will be able to:
-  - Understand the structure of a great prompt
-  - Recognise common failure modes
-  - Learn the 80/20 techniques to address them
-  - Understand LLMs strengths and weaknesses
-  - Build a strong prompts library
+- Anthropic, Prompt Engineering Interactive Tutorial https://github.com/anthropics/prompt-eng-interactive-tutorial?tab=readme-ov-file After completing this course, you will be able to: Understand the structure of a great prompt, Recognise common failure modes, Learn the 80/20 techniques to address them, Understand LLMs strengths and weaknesses, Build a strong prompts library
 
 <a name="prompting"></a>
 # 🗣️ Prompting
-This section provides a practical frame for using prompts in design work. It explains what prompting is, which frameworks and methods exist today, how dependable they are, and how to move from casual use to repeatable workflows and background system prompts.
-
-## How to think about prompting
-
-Prompting is essentially **writing a design brief for an expert collaborator**. A good prompt gives the model the same grounding you'd give a teammate: context, goal, constraints, and examples. Most useful techniques sit on a continuum from lightweight chat to embedded automation.
+Prompting in itself is an evolving space and affected by new model types as they come out. The fundamentals seem reasonably set. The clearer you are and the more context you give, the better the outcomes can be. Most useful techniques sit on a continuum from lightweight chat to embedded automation.
 
 **A prompting maturity ladder**
 
