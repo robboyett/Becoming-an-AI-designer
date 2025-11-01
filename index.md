@@ -97,7 +97,7 @@ Advice from [Buzz Usborne](https://www.linkedin.com/in/buzz/) for any designer g
   - Build a strong prompts library
 
 <a name="prompting"></a>
-## Prompting
+# Prompting
 
 **Purpose.**  
 A practical frame for using prompts in design work. It explains what prompting is, which frameworks and methods exist today, how dependable they are, and how to move from casual use to repeatable workflows and background system prompts. Link this with your sections on [prompt writing](#prompt-writting), [problem framing](#problem-framing), [prototyping and workflows](#prototyping-and-workflows), and [iterative testing and feedback](#iterative-testing-and-feedback) so readers can jump to detail.
