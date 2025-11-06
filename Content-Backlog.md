@@ -1,6 +1,32 @@
 # An unordered list of things to review and add in.
 --------------------------------------------------------
 
+--
+
+Design Principles for AI
+https://medium.com/ui-for-ai/design-principles-for-ai-21b6fac23b04
+
+--
+
+How to build a Content Design Agent
+https://www.intercom.com/blog/how-to-build-a-content-design-agent/
+
+--
+
+When Designers Start Shipping Real Code: Emmet Connolly from Intercom
+https://www.youtube.com/watch?v=_acdhjOLvBs
+
+--
+
+The Ultimate AI Component Generation Framework
+https://substack.com/home/post/p-175136945?source=queue
+
+ Explains the process of going from Figma into coded prototypes, reasonably systematically, using the MCP server.
+
+--
+
+✅ ADDED
+
 AI Brainstorming Design Kit, by HCI Institute
 https://aidesignkit.github.io/
 Description:
@@ -25,6 +51,8 @@ Identify user needs or contexts where that moderate capability still creates cle
 They argue, and to some extent are able to demonstrate that this shift tends to produce ideas that are low-effort, high-impact, and actually buildable. Helping designers explore the underused middle ground of AI’s design space.
 
 --
+
+✅ ADDED
 
 AI Fluency: Framework & Foundations
 https://anthropic.skilljar.com/ai-fluency-framework-foundations
